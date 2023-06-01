@@ -127,8 +127,8 @@ body {
 	.hero {
 		width: calc(var(--index) * 24);
 		position: absolute;
-		left: 44vw;
-		top: 22vh;
+		left: 25vw;
+		top: 2vh;
 		z-index: -1;
 		/* display: none; */
 }
@@ -143,8 +143,8 @@ body {
 	.hero {
 		width: calc(var(--index) * 16);
 		position: absolute;
-		left: 44vw;
-		top: 22vh;
+		left: 25vw;
+		top: 2vh;
 		z-index: -1;
 		/* display: none; */
 }
@@ -159,8 +159,8 @@ body {
 	.hero {
 		width: calc(var(--index) * 12);
 		position: absolute;
-		left: 44vw;
-		top: 22vh;
+		left: 25vw;
+		top: 2vh;
 		z-index: -1;
 		/* display: none; */
 }
