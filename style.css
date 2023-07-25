@@ -815,6 +815,24 @@ h1,h2,h3,h4,h5,h6{
 	.navbar-logo{
 		font-size:18px;
 	}
+	.p-style{
+		font-size:24px;
+	}
+	.p-2-style{
+		font-size:24px;
+	}
+	.p-3-style{
+		font-size:24px;
+	}
+	.p-4-style{
+		font-size:24px;
+	}
+	.p-5-style{
+		font-size:16px;
+	}
+	.p-6-style{
+		font-size:14px;
+	}
 	
 }
 
