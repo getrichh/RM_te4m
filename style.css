@@ -1,7 +1,6 @@
 /*-----------------------------------------------------------------------------------
 	RMTe4m
-	About: A shiny new Blocs website.
-	Author: Norman Sheeran
+	Author: Ivan Sev
 	Version: 1.0
 	Built with Blocs
 -----------------------------------------------------------------------------------*/
@@ -658,9 +657,6 @@ h1,h2,h3,h4,h5,h6{
 /* Bloc image backgrounds */
 
 
-/* = Custom Bric Data
--------------------------------------------------------------- */
-
 
 
 /* = Bloc Padding Multi Breakpoint
@@ -816,16 +812,16 @@ h1,h2,h3,h4,h5,h6{
 		font-size:18px;
 	}
 	.p-style{
-		font-size:40px;
+		font-size:24px;
 	}
 	.p-2-style{
-		font-size:40px;
+		font-size:24px;
 	}
 	.p-3-style{
-		font-size:40px;
+		font-size:24px;
 	}
 	.p-4-style{
-		font-size:40px;
+		font-size:24px;
 	}
 	.p-5-style{
 		font-size:16px;

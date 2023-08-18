@@ -10,8 +10,8 @@
 	$optin = $_POST['optin'];
 	
 	// Create Message	
-	$to = 'receiver@yoursite.com';
-	$email_subject = "Message from a Blocs website.";
+	$to = 'banderiv@icloud.com';
+	$email_subject = "Message from a RMTe4m website.";
 	$email_body = "You have received a new message. \n\n Name: $name \nEmail: $email \nMessage: $message \nOptin: $optin \n";
 	$headers = "MIME-Version: 1.0\r\nContent-type: text/plain; charset=UTF-8\r\n";	
 	$headers .= "From: contact@yoursite.com\r\n";
